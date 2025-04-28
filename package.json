@@ -1,8 +1,6 @@
 {
   "name": "moment2.2",
-  "private": false,
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
